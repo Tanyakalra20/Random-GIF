@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tanyakalra20/Random-GIF/static/css/main.75d1c688.css",
+    "main.js": "/Tanyakalra20/Random-GIF/static/js/main.1ad4778a.js",
+    "index.html": "/Tanyakalra20/Random-GIF/index.html",
+    "main.75d1c688.css.map": "/Tanyakalra20/Random-GIF/static/css/main.75d1c688.css.map",
+    "main.1ad4778a.js.map": "/Tanyakalra20/Random-GIF/static/js/main.1ad4778a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d1c688.css",
+    "static/js/main.1ad4778a.js"
+  ]
+}
